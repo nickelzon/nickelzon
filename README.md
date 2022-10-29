@@ -19,7 +19,7 @@
 </a>
 
 ### About Me
-I am a Computer Science graduate, who is passionate at my profession, motivated and hardworking future employee that is able to manage a fast-paced workplace, and able to finish the tasks on time even though in lesser supervisions. I will be committed to my job, build strong relationship with my supervisors and co-workers so that we can work together as a team with high cooperation with one another.
+I am a Computer Science graduate who seeks to be part of a team of developers so that it can lead me in the path of my profession journey to become a software developer. I took Bachelor of Science in Computer Science in the year 2018 and graduated in the year 2022 at Pangasinan State University.
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
